@@ -1,0 +1,58 @@
+const lendMachines = [
+    {
+        name: 'Máy 1',
+        image: '/images/machines/may1.jpg',
+        description: 'Lorem ipsum, dolor sit amet',
+        target_plant: 'Lorem ipsum, dolor sit amet',
+        price: 25000,
+        quantity: 5,
+        machine_power: '1KW',
+    },
+    {
+        name: 'Máy 2',
+        image: '/images/machines/may2.jfif',
+        description: 'Lorem ipsum, dolor sit amet',
+        target_plant: 'Lorem ipsum, dolor sit amet',
+        price: 8000,
+        quantity: 2,
+        machine_power: '1KW',
+    },
+    {
+        name: 'Máy 3',
+        image: '/images/machines/may1.jpg',
+        description: 'Lorem ipsum, dolor sit amet',
+        target_plant: 'Lorem ipsum, dolor sit amet',
+        price: 20000,
+        quantity: 15,
+        machine_power: '1KW',
+    },
+    {
+        name: 'Máy 4',
+        image: '/images/machines/may2.jfif',
+        description: 'Lorem ipsum, dolor sit amet',
+        target_plant: 'Lorem ipsum, dolor sit amet',
+        price: 15000,
+        quantity: 2,
+        machine_power: '1KW',
+    },
+    {
+        name: 'Máy 5',
+        image: '/images/machines/may1.jpg',
+        description: 'Lorem ipsum, dolor sit amet',
+        target_plant: 'Lorem ipsum, dolor sit amet',
+        price: 35000,
+        quantity: 5,
+        machine_power: '1KW',
+    },
+    {
+        name: 'Máy 6',
+        image: '/images/machines/may2.jfif',
+        description: 'Lorem ipsum, dolor sit amet',
+        target_plant: 'Lorem ipsum, dolor sit amet',
+        price: 10000,
+        quantity: 6,
+        machine_power: '1KW',
+    },
+]
+
+export default lendMachines;

@@ -1,0 +1,66 @@
+.navbar
+{
+    background-color: #2f4768 !important;
+    color: white !important;
+}
+.nav-cal{
+    color: white !important;
+    font-size: 14px;
+}
+.logo{
+    margin-bottom: -30px;
+    margin-left: -20px;
+}
+
+#username, #adminmenu {
+    color: white !important ;
+    font-size: 14px;
+}
+
+.cart {
+    text-decoration: none !important;
+    margin-left: 0rem !important;
+    font-size: 14px !important;
+    color: white !important;
+}
+
+.fa-shopping-cart {
+    margin-right: 8px ;
+    color: white;
+}
+
+/* Desktop */
+@media only screen and (min-width: 992px) {
+    .navbar {
+        height: 90px;     
+
+    }
+    .cart {
+        float: right !important;
+        margin-left: 33rem !important;
+        color: white !important;
+        font-size: 14px !important;
+        font-size: 14px;
+    }
+    .remove-space {
+        float: right !important;
+        /* margin-left: 36rem !important; */
+        margin-left: 36rem;
+        color: white !important;
+        font-size: 14px !important;
+    }
+    .nav-cal{
+        margin-left: 10px;
+    }
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        left: -110px;
+        top: 36px;
+    }
+}
+
+/* Phone */
+@media only screen and (max-width:320px) {
+    .nav-cal{
+        font-size: 15px !important;
+    }
+}

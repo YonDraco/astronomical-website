@@ -1,4 +1,4 @@
-## Project "Phát triển web front-end 2" và "	Phát triển web back-end"
+## Project "Phát triển web front-end 2" và "Phát triển web back-end"
 website cung cấp một số thông tin và bán các sản phẩm liên quan đến thiên văn
 
 ### Install dependencies (frontend & backend)
@@ -8,15 +8,15 @@ website cung cấp một số thông tin và bán các sản phẩm liên quan �
     npm install
     
 ### Frond end: (3000)
-  "Thêm file .env"
+  + "Thêm file .env"
   REACT_APP_GOOGLE_KEY = AIzaSyBjAe_DOZhnNsztoF_n5q3QQ8zFpzb1eEU
   
 ### Back end: (5000)
-  + "Thêm file .env"
+   ####"Thêm file .env"
     NODE_ENV = development
     JWT_SECRET = yondraco
     PAYPAL_CLIENT_ID = yourpaypalclientid
-  + "Kết nối Mongodb"
+   ####"Kết nối Mongodb"
     Thêm uri mongodb tại file "db.js" trong folder "config"
 
 ### Import data

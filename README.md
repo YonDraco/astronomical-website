@@ -28,6 +28,6 @@ website cung cấp một số thông tin và bán các sản phẩm liên quan �
 ### Demo
 ![trang-chu](https://github.com/YonDraco/astronomical-website/blob/main/demo/trangchu.png)
 ![dich-vu](https://github.com/YonDraco/astronomical-website/blob/main/demo/dichvu.png)
-![san-pham-thien-van](https://github.com/YonDraco/astronomical-website/blob/main/demo/trangchu.png)
+![san-pham-thien-van](https://github.com/YonDraco/astronomical-website/blob/main/demo/sanphamthienvan.png)
 ![san-pham-noi-bat](https://github.com/YonDraco/astronomical-website/blob/main/demo/sanphamnoibat.png)
 ![thiet-bi](https://github.com/YonDraco/astronomical-website/blob/main/demo/thietbi.png)

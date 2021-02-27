@@ -25,6 +25,10 @@ website cung cấp một số thông tin và bán các sản phẩm liên quan �
 ### Destroy data
 `npm run data:destroy`
 
+### Run App
++ Frondend: `npm start`
++ Backend: `node server.js`
+
 ### Demo
 ![trang-chu](https://github.com/YonDraco/astronomical-website/blob/main/demo/trangchu.png)
 ![dich-vu](https://github.com/YonDraco/astronomical-website/blob/main/demo/dichvu.png)

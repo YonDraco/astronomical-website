@@ -96,7 +96,7 @@ const createSeedProductReview = asyncHandler(async (req, res) => {
         const alreadyReviewed = productSeed.reviews.find(r => r.user.toString() === req.user._id.toString())
         if (alreadyReviewed) {
             res.status(400)
-            throw new Error('Sản phẩm đã được xem')
+            throw new Error('Bạn chưa nhập bình luận')
         }
 
         const review = {

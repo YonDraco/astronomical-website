@@ -10,7 +10,7 @@ const HomeScreen = () => {
 
     return (
         <>
-            <Meta />
+            <Meta/>
             <SliderComponent />
             <CardMenu />
             <OurServices />

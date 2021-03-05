@@ -4,7 +4,7 @@ import generateToken from './../utils/genarateToken.js'
 import Supplier from './../models/supplierModel.js';
 import nodeGeocoder from 'node-geocoder'
 
-// @desc    Create supplier product
+// @desc    Create contact  
 // @rout    POST /api/supplier/
 // @access  private
 const createSupplierProduct = asyncHandler(async (req, res) => {
@@ -22,7 +22,7 @@ const createSupplierProduct = asyncHandler(async (req, res) => {
 
     if (name & address === '') {
         res.status(400)
-        throw new Error('No Products Items')
+        throw new Error('Vui lòng nhập hết các trường')
     } else {
         let options = {
             provider: 'openstreetmap'

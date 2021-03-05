@@ -40,7 +40,7 @@ const Layout = () => {
     return (
         <>
             <Router>
-                <Header />
+                <Header/>
                 <Switch>
                     <Route exact path="/" component={HomeScreen} />
                     <Route exact path="/dich-vu" component={Farmer} />
@@ -76,7 +76,7 @@ const Layout = () => {
                     <Route exact path="/dich-vu/lendMachines/:id" component={LendMachineProduct} />
                     <Route exact path="/san-pham-thien-van/:id" component={ConsumerProductDetailScreen} />
                 </Switch>
-                <Footer />
+                <Footer/>
             <ScrollToTop/>
             </Router>
         </>

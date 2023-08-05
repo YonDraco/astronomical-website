@@ -9,7 +9,7 @@ website cung cấp một số thông tin và bán các sản phẩm liên quan �
     
 ### Frond end: (3000)
   + "Thêm file .env"
-  `REACT_APP_GOOGLE_KEY = AIzaSyBjAe_DOZhnNsztoF_n5q3QQ8zFpzb1eEU`
+  `REACT_APP_GOOGLE_KEY = `
   
 ### Back end: (5000)
   + "Thêm file .env"
